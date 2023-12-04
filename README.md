@@ -69,3 +69,6 @@ sudo certbot --apache
 
 ## Creacion del certificado
 ![](/img/certificado.png)
+
+## Licencia
+![](/img/descarga.png)
