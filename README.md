@@ -65,3 +65,7 @@ sudo certbot --apache
 
 ![](/img/configuracion1.png)
 ![](/img/configuracion2.png)
+
+
+## Creacion del certificado
+![](/img/certificado.png)
